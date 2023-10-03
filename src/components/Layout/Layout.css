@@ -1,0 +1,12 @@
+.app-layout {
+    height: calc(100vh - 70px);
+    padding-top: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.app-layout-content {
+    flex: 1;
+    background-color: rgb(194, 187, 187);
+}

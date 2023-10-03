@@ -1,0 +1,15 @@
+.loginInput {
+    margin: 30px auto 20px;
+    padding: 10px 5px;
+    width: 350px;
+    height: 30px;
+    display: block;
+    outline: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.loginInput::placeholder{
+    color: #685a5a;
+    font-size: 18px;
+}

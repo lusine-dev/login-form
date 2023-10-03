@@ -1,0 +1,13 @@
+.form {
+    padding: 30px ;
+    margin: 80px auto 0;
+    background-color: rgb(146, 146, 184);
+    width: 380px;
+    height: 380px;
+    border: 2px solod;
+    border-radius: 20px;
+}
+p {
+    margin: 20px 20px 10px;
+    color: rgb(255, 251, 251);
+}
